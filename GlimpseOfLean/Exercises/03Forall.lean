@@ -227,4 +227,3 @@ You can start with specialized files in the `Topics` folder. You have choice bet
 Note the two logic files are really for people interested in logic as a goal, not logic
 as a tool.
 -/
-
